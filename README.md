@@ -27,6 +27,8 @@ This project serves as a demonstration of iOS development skills including:
 
 ## 🚀 Getting Started
 
+**TODO**
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/yourapp.git
